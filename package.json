@@ -1,0 +1,19 @@
+{
+  "name": "webdesign-static-site",
+  "version": "1.0.0",
+  "description": "Project that I present at the Invention Udayana Competition 2018 ",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfinsuryaS/invention-competition-project.git"
+  },
+  "author": "Alfin Surya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfinsuryaS/invention-competition-project/issues"
+  },
+  "homepage": "https://github.com/alfinsuryaS/invention-competition-project#readme"
+}
