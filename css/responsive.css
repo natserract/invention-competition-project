@@ -1,0 +1,146 @@
+@media screen and (min-width: 768px) {
+  .intro-text {
+    padding-top: 230px;
+    padding-bottom: 250px;
+  }
+  header::after {
+    margin-bottom: -20px;
+  }
+  .video .content p {
+    text-align: center;
+  }
+  .grid-small-size .item h2 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .item h2 {
+    font-size: 20px;
+  }
+  .img-search {
+    width: 30px;
+  }
+  .author li {
+    font-size: 10px;
+  }
+  .whatson-title {
+    font-size: 20px;
+  }
+  .whatson-text, .readmore {
+    font-size: 13px;
+  }
+}
+
+/* tablet size */
+
+@media screen and (max-width: 992px) {
+  .grid-about {
+    min-height: 100%;
+    padding: 20px 0;
+  }
+  .advantages-head {
+    font-size: 35px;
+  }
+  .advantages-desc {
+    padding-bottom: 20px;
+  }
+  .middle {
+    margin: 25px 0 0 0;
+  }
+  .explore-divide {
+    margin-top: 30px;
+  }
+}
+
+/* Mobile size */
+
+@media screen and (max-width: 760px) {
+  .nav {
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    -webkit-box-shadow: 0px -3px 11px 1px rgba(0, 0, 0, 0.35);
+    -moz-box-shadow: 0px -3px 11px 1px rgba(0, 0, 0, 0.35);
+    -o-box-shadow: 0px -3px 11px 1px rgba(0, 0, 0, 0.35);
+    box-shadow: 0px -3px 11px 1px rgba(0, 0, 0, 0.35);
+    position: fixed;
+  }
+  .nav .mobile-brand {
+    display: block;
+    width: 135px;
+    padding-top: 5px;
+  }
+  .nav-toggle {
+    display: block;
+    cursor: pointer;
+  }
+  .nav-toggle a, .nav .menu-item a {
+    color: #757575;
+    -webkit-transition: .1s all ease-in-out;
+    -moz-transition: .1s all ease-in-out;
+    -o-transition: .1s all ease-in-out;
+    transition: .1s all ease-in-out;
+  }
+  .nav .menu-item a:hover {
+    color: #42a5f5;
+  }
+  .nav-transparent .menu-item a:after, .nav-collapse .menu-item, .nav-collapse .brand, .nav-collapse.nav-responsive .brand-second, .nav .brand-second {
+    display: none;
+  }
+  .nav-responsive {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 0;
+    display: block;
+    background: #fff;
+    border-top: solid 1px #e0e0e0;
+    -webkit-transition: margin .2s;
+    -moz-transition: margin .2s;
+    -o-transition: margin .2s;
+    transition: margin .2s;
+  }
+  .nav-responsive .menu-item {
+    text-align: left;
+    display: block;
+    line-height: 35px;
+    margin: 0;
+  }
+  section .heading-title h1 {
+    font-size: 37px;
+  }
+  .about-tabs li {
+    padding: 2px 0;
+  }
+  .grid-about {
+    padding: 5px 0;
+  }
+  .about .content p {
+    text-align: justify;
+  }
+  .advantages-head {
+    font-size: 32px;
+    text-align: center;
+  }
+  .intro-text {
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+  .intro-heading {
+    font-size: 57px;
+    line-height: 70px;
+  }
+  .video h1 {
+    font-size: 35px;
+  }
+  .explore-divide h2 {
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .quicklinks {
+    text-align: center;
+  }
+}
