@@ -1,2 +1,9 @@
 # Local Netlify folder
-.netlify
+node_modules/
+
+firebase-debug.log
+npm-debug.log
+yarn.lock
+/.vscode
+
+.DS_Store
