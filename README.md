@@ -13,4 +13,4 @@ Honestly, very proud to be able to compete with great people, and to be able to 
   - Open `public/index.html` in your browser
   
 ## Bold line
- Big thanks to, friends, and family who have supported me 😉
+ Big thanks to friends, and family who have supported me 😉
