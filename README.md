@@ -3,8 +3,6 @@ A project that I presented during the [Invention Udayana](https://www.invention-
 
 Honestly, very proud to be able to compete with great people, and to be able to contribute in this competition.
 
-![](https://github.com/alfinsuryaS/invention-competition-project/blob/master/public/img/screenshot.png)
-
 ## Get Started
  - Clone this repo
  - To get the best experience, install all fonts that are available in the `public/font` folder
